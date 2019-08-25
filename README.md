@@ -1,4 +1,8 @@
-# Pandockerize ![Licence](https://img.shields.io/github/license/FatihBozik/pandockerize?style=social)
+# Pandockerize
+
+![Licence](https://img.shields.io/github/license/FatihBozik/pandockerize?style=social)
+
+<br/>
 
 <img align="left" src="./pictures/docker-logo.png" width="112">
 
